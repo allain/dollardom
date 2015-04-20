@@ -81,7 +81,7 @@ functions (`forEach`, `map`, `reduce`, etc.) or Ajax. There are perfectly
 good polyfills outthere.
 * [Good documentation](http://julienw.github.com/dollardom/doc)
 * [Permissive BSD-like license](https://github.com/julienw/dollardom/blob/master/LICENSE)
-* the author knows Javascript and the DOM (or I think so ;-) ).
+* the author knows Javascript and the DOM (or I think do ;-) ).
 * there is a _debugging_ version to help you use the library correctly.
 
 #### Weak points
